@@ -1,6 +1,6 @@
 - 👋 Hi,
-- 👀 I’m interested in embedded systems, ham radio and MOS 6502.
-- 🌱 I’m currently learning C# and Arduino
+- 👀 I’m interested in gamedev and MOS 6502.
+- 🌱 I’m currently learning C# and Unity
 
 <!---
 QuickPurpleFox/QuickPurpleFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
